@@ -20,3 +20,4 @@ SQLAlchemy==2.0.44
 sqlparse==0.5.3
 typing_extensions==4.15.0
 urllib3==2.5.0
+whitenoise==6.5.0
